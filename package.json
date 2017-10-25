@@ -1,0 +1,23 @@
+{
+  "name": "hangman-cli",
+  "version": "1.0.0",
+  "description": "Hangman Cli game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doctort57/Hangman-CLI.git"
+  },
+  "author": "David Thurman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doctort57/Hangman-CLI/issues"
+  },
+  "homepage": "https://github.com/doctort57/Hangman-CLI#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "moviedb": "^0.2.10"
+  }
+}
